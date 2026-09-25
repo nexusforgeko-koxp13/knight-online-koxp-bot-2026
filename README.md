@@ -6,6 +6,18 @@ Bu depo bir dokümantasyon kaynağıdır; indirilebilir bir KOXP paketi veya ür
 
 **Hızlı erişim:** [NexusForgeKO KOXP ürün sayfası](https://nexusforgeko.com/urun/knight-online-farm-bot) · [Resmi kurulum ve destek dokümantasyonu](https://github.com/nexusforgeko-koxp13/nexusforgeko) · [Karşılaştırılabilir test notu şablonu](docs/kontrol-formu.md)
 
+## Aradığınız bilgiye doğrudan ulaşın
+
+| İhtiyaç | Kaynak |
+|---|---|
+| Knight Online KOXP fiyatları ve güncel uyumluluk | [Resmî ürün sayfası](https://nexusforgeko.com/urun/knight-online-farm-bot) |
+| KOXP indirme ve ilk kurulum | [Resmî kurulum adımları](https://nexusforgeko.com/rehber/launcher-kurulum) |
+| Lisans aktif ama başlat düğmesi yok | [Belirtiye göre sorun giderme](docs/baslatma-sorunlari.md) |
+| OTP hesap mı, KOXP lisansı mı? | [Ürün ve ödeme aşamalarını ayırın](docs/otp-ve-koxp.md) |
+| Bir hatayı teknik olarak bildirmek | [Kontrol formu](docs/kontrol-formu.md) |
+
+**English:** Official NexusForgeKO documentation for Knight Online KOXP setup, USKO/KO4FUN compatibility checks and launcher troubleshooting. This repository contains documentation, not a downloadable bot or its source code. Current product details and downloads are on the official website.
+
 ## Knight Online KOXP nedir?
 
 KOXP, Knight Online topluluğunda karakterin hedef seçimi, saldırı, kutu toplama veya tedarik gibi işlemlerini otomatikleştiren araçlar için kullanılan bir terimdir. Farm botu ifadesi genellikle tekrarlanan oyun içi toplama ve gelişim akışlarını anlatır. Ancak bu adlandırmalar tek başına özellik kapsamını, sunucu desteğini veya güvenliği kanıtlamaz.
